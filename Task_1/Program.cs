@@ -1,4 +1,4 @@
-﻿//Задача 41.
+﻿//Задача 40.
 
 Console.Write("Введите разрад числа Фибоначчи: ");
 int size = Convert.ToInt32(Console.ReadLine());
